@@ -116,25 +116,25 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "lib/ch1_p1.cpp",
+			"path" : "lib/ch2_p1.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "lib/ch1_p2.cpp",
+			"path" : "lib/ch2_p2.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "lib/ch1_p3.cpp",
+			"path" : "lib/ch2_p3.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "lib/ch1_p4.cpp",
+			"path" : "lib/ch2_p4.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

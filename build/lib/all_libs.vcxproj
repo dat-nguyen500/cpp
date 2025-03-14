@@ -284,10 +284,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Programmation\C - C++\cpp\lib\ch1_p1.cpp" />
-    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Programmation\C - C++\cpp\lib\ch1_p2.cpp" />
-    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Programmation\C - C++\cpp\lib\ch1_p3.cpp" />
-    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Programmation\C - C++\cpp\lib\ch1_p4.cpp" />
+    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Programmation\C - C++\cpp\lib\ch2_p1.cpp" />
+    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Programmation\C - C++\cpp\lib\ch2_p2.cpp" />
+    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Programmation\C - C++\cpp\lib\ch2_p3.cpp" />
+    <ClCompile Include="C:\Users\datng\OneDrive\OneDrive\Mecatronique\Programmation\C - C++\cpp\lib\ch2_p4.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
