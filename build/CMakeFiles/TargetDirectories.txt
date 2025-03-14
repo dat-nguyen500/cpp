@@ -1,0 +1,4 @@
+C:/Users/datng/OneDrive/OneDrive/Mecatronique/Programmation/C - C++/cpp/build/CMakeFiles/cpp.dir
+C:/Users/datng/OneDrive/OneDrive/Mecatronique/Programmation/C - C++/cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/datng/OneDrive/OneDrive/Mecatronique/Programmation/C - C++/cpp/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/datng/OneDrive/OneDrive/Mecatronique/Programmation/C - C++/cpp/build/lib/CMakeFiles/all_libs.dir
